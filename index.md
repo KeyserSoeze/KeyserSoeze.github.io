@@ -3,7 +3,7 @@
 
 ## Erster Abschnitt
 
-Mit etwas Text.
+Mit **etwas** Text.
 
 Und ein [Link](/test), nein zwei [Links](test.html).
 
